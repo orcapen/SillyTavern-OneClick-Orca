@@ -1,0 +1,164 @@
+settings.json
+themes/Dark Lite.json
+themes/Cappuccino.json
+themes/Celestial Macaron.json
+themes/Dark V 1.0.json
+themes/Azure.json
+backgrounds/__transparent.png
+backgrounds/_black.jpg
+backgrounds/_white.jpg
+backgrounds/bedroom clean.jpg
+backgrounds/bedroom cyberpunk.jpg
+backgrounds/bedroom red.jpg
+backgrounds/bedroom tatami.jpg
+backgrounds/cityscape medieval market.jpg
+backgrounds/cityscape medieval night.jpg
+backgrounds/cityscape postapoc.jpg
+backgrounds/forest treehouse fireworks air baloons (by kallmeflocc).jpg
+backgrounds/japan classroom side.jpg
+backgrounds/japan classroom.jpg
+backgrounds/japan path cherry blossom.jpg
+backgrounds/japan university.jpg
+backgrounds/landscape autumn great tree.jpg
+backgrounds/landscape beach day.png
+backgrounds/landscape beach night.jpg
+backgrounds/landscape mountain lake.jpg
+backgrounds/landscape postapoc.jpg
+backgrounds/landscape winter lake house.jpg
+backgrounds/royal.jpg
+backgrounds/tavern day.jpg
+default_Seraphina.png
+Seraphina
+Eldoria.json
+user-default.png
+Default_Comfy_Workflow.json
+Char_Avatar_Comfy_Workflow.json
+presets/kobold/Deterministic.json
+presets/kobold/Neutral.json
+presets/kobold/RecoveredRuins.json
+presets/kobold/Universal-Creative.json
+presets/kobold/Universal-Light.json
+presets/kobold/Universal-Super-Creative.json
+presets/novel/Asper-Kayra.json
+presets/novel/Blended-Coffee-Kayra.json
+presets/novel/Blook-Kayra.json
+presets/novel/Carefree-Kayra.json
+presets/novel/CosmicCube-Kayra.json
+presets/novel/Edgewise-Clio.json
+presets/novel/Fresh-Coffee-Clio.json
+presets/novel/Fresh-Coffee-Kayra.json
+presets/novel/Green-Active-Writer-Kayra.json
+presets/novel/Keelback-Clio.json
+presets/novel/Long-Press-Clio.json
+presets/novel/Pilotfish-Kayra.json
+presets/novel/Pro_Writer-Kayra.json
+presets/novel/Stelenes-Kayra.json
+presets/novel/Talker-Chat-Clio.json
+presets/novel/Tea_Time-Kayra.json
+presets/novel/Tesseract-Kayra.json
+presets/novel/Vingt-Un-Clio.json
+presets/novel/Writers-Daemon-Kayra.json
+presets/novel/Erato-Dragonfruit.json
+presets/novel/Erato-Golden Arrow.json
+presets/novel/Erato-Shosetsu.json
+presets/novel/Erato-Wilder.json
+presets/novel/Erato-Zany Scribe.json
+presets/textgen/Default.json
+presets/textgen/Deterministic.json
+presets/textgen/Neutral.json
+presets/textgen/Universal-Creative.json
+presets/textgen/Universal-Light.json
+presets/textgen/Universal-Super-Creative.json
+presets/openai/Default.json
+presets/context/Adventure.json
+presets/context/Alpaca-Single-Turn.json
+presets/context/Alpaca.json
+presets/context/ChatML.json
+presets/context/Default.json
+presets/context/Libra-32B.json
+presets/context/Lightning 1.1.json
+presets/context/Llama 2 Chat.json
+presets/context/Minimalist.json
+presets/context/NovelAI.json
+presets/context/OldDefault.json
+presets/context/Metharme.json
+presets/context/Story.json
+presets/context/Synthia.json
+presets/context/simple-proxy-for-tavern.json
+presets/context/Command R.json
+presets/context/Llama 3 Instruct.json
+presets/context/Llama 4 Instruct.json
+presets/context/Phi.json
+presets/instruct/Adventure.json
+presets/instruct/Alpaca-Single-Turn.json
+presets/instruct/Alpaca.json
+presets/instruct/ChatML.json
+presets/instruct/Koala.json
+presets/instruct/Libra-32B.json
+presets/instruct/Lightning 1.1.json
+presets/instruct/Llama 2 Chat.json
+presets/instruct/Metharme.json
+presets/instruct/OpenOrca-OpenChat.json
+presets/instruct/Story.json
+presets/instruct/Synthia.json
+presets/instruct/Tulu.json
+presets/context/Tulu.json
+presets/instruct/Vicuna 1.0.json
+presets/instruct/Vicuna 1.1.json
+presets/instruct/WizardLM-13B.json
+presets/instruct/WizardLM.json
+presets/instruct/simple-proxy-for-tavern.json
+presets/instruct/Command R.json
+presets/instruct/Llama 3 Instruct.json
+presets/instruct/Llama 4 Instruct.json
+presets/instruct/Phi.json
+presets/moving-ui/Default.json
+presets/quick-replies/Default.json
+presets/instruct/Llama-3-Instruct-Names.json
+presets/instruct/ChatML-Names.json
+presets/instruct/KoboldAI.json
+presets/context/Llama-3-Instruct-Names.json
+presets/context/ChatML-Names.json
+presets/context/Gemma 2.json
+presets/instruct/Gemma 2.json
+presets/sysprompt/Actor.json
+presets/sysprompt/Assistant - Expert.json
+presets/sysprompt/Assistant - Simple.json
+presets/sysprompt/Chain of Thought.json
+presets/sysprompt/Roleplay - Detailed.json
+presets/sysprompt/Roleplay - Immersive.json
+presets/sysprompt/Roleplay - Simple.json
+presets/sysprompt/Text Adventure.json
+presets/sysprompt/Writer - Creative.json
+presets/sysprompt/Writer - Realistic.json
+presets/sysprompt/Blank.json
+presets/sysprompt/Neutral - Chat.json
+presets/sysprompt/Lightning 1.1.json
+presets/instruct/Mistral V1.json
+presets/context/Mistral V1.json
+presets/instruct/Mistral V2 & V3.json
+presets/context/Mistral V2 & V3.json
+presets/instruct/Mistral V3-Tekken.json
+presets/context/Mistral V3-Tekken.json
+presets/instruct/Mistral V7.json
+presets/context/Mistral V7.json
+presets/instruct/DeepSeek-V2.5.json
+presets/context/DeepSeek-V2.5.json
+presets/instruct/GLM-4.json
+presets/context/GLM-4.json
+presets/reasoning/DeepSeek.json
+presets/reasoning/Blank.json
+presets/instruct/Dots1.json
+presets/context/Dots1.json
+presets/context/Mistral V7-Tekken.json
+presets/instruct/Mistral V7-Tekken.json
+presets/instruct/Moonshot AI.json
+presets/context/Moonshot AI.json
+presets/context/OpenAI Harmony.json
+presets/instruct/OpenAI Harmony.json
+presets/instruct/OpenAI Harmony (Thinking).json
+presets/reasoning/OpenAI Harmony.json
+presets/reasoning/Think XML.json
+presets/reasoning/Gemma 4.json
+presets/instruct/Gemma 4.json
+presets/context/Gemma 4.json

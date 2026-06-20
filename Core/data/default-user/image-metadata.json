@@ -1,0 +1,236 @@
+{
+    "version": 1,
+    "images": {
+        "backgrounds/__transparent.png": {
+            "hash": "63ef318d96b5d0d0ceba6e04a4e622b1158335cdc67c49e27839132c6f655058",
+            "aspectRatio": 1,
+            "isAnimated": false,
+            "dominantColor": "#000000",
+            "folderIds": [],
+            "addedTimestamp": 1781905378427,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240949.6458
+        },
+        "backgrounds/_black.jpg": {
+            "hash": "c562543a0eea1a5fb6a7b54030b37db44abf864fccebd17cf662b5e8c401fd2a",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#000000",
+            "folderIds": [],
+            "addedTimestamp": 1781905378427,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240950.6636
+        },
+        "backgrounds/_white.jpg": {
+            "hash": "2dddd545d6efa2456a7386bea8226940dff8f028d4579d5b042a26f29d1b9db3",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#ffffff",
+            "folderIds": [],
+            "addedTimestamp": 1781905378428,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240950.6636
+        },
+        "backgrounds/bedroom clean.jpg": {
+            "hash": "c138b51f38b9e9fafec8ab7ffdbe04eb900953167797953411353da052c9d3bc",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#745a4f",
+            "folderIds": [],
+            "addedTimestamp": 1781905378429,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240952.8098
+        },
+        "backgrounds/bedroom cyberpunk.jpg": {
+            "hash": "12237000a0723c5e4eac98ae4d7da6d2b4fc5ac1b0e3affdaa6ef9175c2d4ff2",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#233245",
+            "folderIds": [],
+            "addedTimestamp": 1781905378431,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240955.0151
+        },
+        "backgrounds/bedroom red.jpg": {
+            "hash": "9dbebe979d952981d9cb77f1dec004051e224ba7b35236684a0747d23b87bfb3",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#4d1f22",
+            "folderIds": [],
+            "addedTimestamp": 1781905378432,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240957.0083
+        },
+        "backgrounds/bedroom tatami.jpg": {
+            "hash": "6ec34e76d9556a5f93d907c9a9a8fac0665364e34d2e711c61fb41e66d5dcd3e",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#8e7e6c",
+            "folderIds": [],
+            "addedTimestamp": 1781905378433,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240958.3372
+        },
+        "backgrounds/cityscape medieval market.jpg": {
+            "hash": "63caa77149191b9be99b569087e6c2ce82f27724841e48dcf1aca34edcdd1e6b",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#867b73",
+            "folderIds": [],
+            "addedTimestamp": 1781905378435,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240961.006
+        },
+        "backgrounds/cityscape medieval night.jpg": {
+            "hash": "c863561cd0178a3401fa6d32688e3719988e85f57e8d131761a54c4728331275",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#433933",
+            "folderIds": [],
+            "addedTimestamp": 1781905378436,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240963.1287
+        },
+        "backgrounds/cityscape postapoc.jpg": {
+            "hash": "9df377f4802cbe3386bcfd6d77f1f1482015a18aab1f4ba78010928096927efe",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#736d66",
+            "folderIds": [],
+            "addedTimestamp": 1781905378437,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240965.2395
+        },
+        "backgrounds/forest treehouse fireworks air baloons (by kallmeflocc).jpg": {
+            "hash": "96f558bb26810b4e4b65001ade84ba992136a58af70ba49dc929141166ce88d5",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#243230",
+            "folderIds": [],
+            "addedTimestamp": 1781905378439,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240966.9314
+        },
+        "backgrounds/japan classroom side.jpg": {
+            "hash": "a97cf945acb14a3fba023fa4f39a5a314f14e55315707c37f13bf712958b11ca",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#928d90",
+            "folderIds": [],
+            "addedTimestamp": 1781905378440,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240969.0205
+        },
+        "backgrounds/japan classroom.jpg": {
+            "hash": "0f3cf5732faf8a7a386b3a29427ff76b91447caf94c65a77453aaefa866787c2",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#7e7371",
+            "folderIds": [],
+            "addedTimestamp": 1781905378441,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240971.1038
+        },
+        "backgrounds/japan path cherry blossom.jpg": {
+            "hash": "6e79fd32ef735be509ff76aaa2a9a7adf5c818baf9c133ab18f97ddbde939dbd",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#9c8a77",
+            "folderIds": [],
+            "addedTimestamp": 1781905378443,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240974.5278
+        },
+        "backgrounds/japan university.jpg": {
+            "hash": "284ad60047a8ad833fd21cdd57a96a17f111adff4b08ab8b23387c74a74661fe",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#9188a7",
+            "folderIds": [],
+            "addedTimestamp": 1781905378444,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240976.6143
+        },
+        "backgrounds/landscape autumn great tree.jpg": {
+            "hash": "36d6d7910bededd0cf5d1151f25b394de63e6b1589e55081a799ebf29a141611",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#7c7365",
+            "folderIds": [],
+            "addedTimestamp": 1781905378445,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240978.0457
+        },
+        "backgrounds/landscape beach day.png": {
+            "hash": "8966f84d35ddbd81d4d6df179cbe216fd2df74841d6af9a1fc9e259fc55bf601",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#939fa7",
+            "folderIds": [],
+            "addedTimestamp": 1781905378446,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240986.3896
+        },
+        "backgrounds/landscape beach night.jpg": {
+            "hash": "3589c70337e208eab0c2ec0033771f4d0f2950b399dd12a92c4b41651c34833e",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#594d60",
+            "folderIds": [],
+            "addedTimestamp": 1781905378447,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240988.6128
+        },
+        "backgrounds/landscape mountain lake.jpg": {
+            "hash": "f8704b2da19b14538887edb51b2f85eafd63333e1d7be034dd17c68e103af41b",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#7e7877",
+            "folderIds": [],
+            "addedTimestamp": 1781905378448,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240990.6118
+        },
+        "backgrounds/landscape postapoc.jpg": {
+            "hash": "f15f2ed31ebcc2bd291a916feb6a9b726a5c1d615d67c9dc5fefb6ffe275d34f",
+            "aspectRatio": 1.7648,
+            "isAnimated": false,
+            "dominantColor": "#5b544d",
+            "folderIds": [],
+            "addedTimestamp": 1781905378450,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240992.853
+        },
+        "backgrounds/landscape winter lake house.jpg": {
+            "hash": "309e451eb98641b2fff7035e4cd50cf2123491289fe629a9ca7e708fff9583cb",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#7e8683",
+            "folderIds": [],
+            "addedTimestamp": 1781905378451,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240994.1672
+        },
+        "backgrounds/royal.jpg": {
+            "hash": "01c5bd746c86792340aa0a1039e750872bacfeab4c1a22a0e068c35083b5a959",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#826f65",
+            "folderIds": [],
+            "addedTimestamp": 1781905378452,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240996.4988
+        },
+        "backgrounds/tavern day.jpg": {
+            "hash": "5b9400b20ec88e42a043d30101c520de938cc9b817519070f44eec5f96ad6426",
+            "aspectRatio": 1.7778,
+            "isAnimated": false,
+            "dominantColor": "#5e4535",
+            "folderIds": [],
+            "addedTimestamp": 1781905378454,
+            "thumbnailResolution": 14400,
+            "mtime": 1781905240998.938
+        }
+    },
+    "folders": []
+}
