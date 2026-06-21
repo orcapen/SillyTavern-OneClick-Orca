@@ -57,6 +57,8 @@ https://sillytavern.wiki/installation/windows/
 
 ## 授權與原始專案
 
+本專案採用 `AGPL-3.0`，授權檔請見根目錄的 [LICENSE](LICENSE)。
+
 `SillyTavern` 原始專案與授權資訊請以官方倉庫為準。
 
 原始專案：
