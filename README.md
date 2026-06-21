@@ -20,7 +20,7 @@
 
 ## 圖文安裝教學
 
-如果你是第一次使用，這份文件有完整的圖文教學，不只包含安裝步驟，連 `OpenRouter API` 要怎麼申請，以及簡易模型選擇要怎麼設定，也都有一步一步說明：
+如果你是第一次使用，這份文件有完整的圖文教學，不只包含安裝步驟，連 `OpenRouter API` 要怎麼申請，模型選擇要怎麼設定，要怎麼樣避免燒掉自己的信用卡，都有一步一步說明：
 
 [小鯨魚陪你裝 SillyTavern](https://docs.google.com/presentation/d/19JJBcMlNKmbthCxB3SNnYfzq0ysOp1PfJLeAo-Yjuqs/edit?usp=sharing)
 
